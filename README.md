@@ -1,15 +1,15 @@
-# silentFB
+# 維基百科加注音
 
-make Facebook UI grayscale to avoid overstimulation.
+在維基百科上加注音
 
 
 ## Installation
 
-* visit [https://bestian.github.io/silentFB/](https://bestian.github.io/silentFB/)
+請先安裝 [源樣注音明體] https://github.com/ButTaiwan/bpmfvs/releases/download/v1.320/BpmfGenYoGothic.zip
 
-
+再安裝本擴充功能
 
 ## Bug Report
 
-* post [Issues](https://github.com/bestian/silentFB/issues)
+* post [Issues](https://github.com/bestian/zhuin/issues)
 
