@@ -1,3 +1,8 @@
-img {
-	opacity: 0 !important;
+body {
+	font-family: "Bpmf GenYo Gothic", "Bpmf GenYo Gothic R" !important;
+	font-size: 20px !important;
+}
+
+p {
+	font-size: 22px !important;
 }

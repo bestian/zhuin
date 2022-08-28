@@ -8,15 +8,7 @@
   "version": "2.0.0",
   "content_scripts": [
     {
-      "matches": ["*://www.ettoday.net/*", "*://news.ltn.com.tw/*",
-                  "*://tw.news.yahoo.com/*", "*://tw.tv.yahoo.com/*", 
-                  "*://www.appledaily.com.tw/*", "https://www.upmedia.mg/*", 
-                  "*://today.line.me/*", "*://www.upmedia.mg/*",
-                  "*://www.youtube.com/*", "*://tag.todohealth.com/*", 
-                  "*://www.chinatimes.com/*", "*://www.setn.com/*", 
-                  "*://google.com.tw/*", "*://www.google.com/*", 
-                  "*://www.bing.com/*", "*://www.yahoo.com/*", 
-                  "*://www.baidu.com/*", "*://www.sina.com.cn/*"],
+      "matches": ["*://zh.m.wikipedia.org/*", "*://zh.wikipedia.org/*"],
       "css": ["content.css"],
       "js": []
     }
