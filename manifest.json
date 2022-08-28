@@ -5,13 +5,23 @@
   "icons": { "16": "icon16.png",
   			"48": "icon48.png",
   			"128": "icon128.png" },
-  "version": "2.0.0",
+  "version": "3.0.0",
+  "action": {  
+    "default_title" : "toggleCss",
+    "default_icon": {
+      "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"}
+  },
+  "permissions": ["activeTab", "scripting"],
   "content_scripts": [
     {
       "matches": ["*://zh.m.wikipedia.org/*", "*://zh.wikipedia.org/*"],
-      "css": ["content.css"],
-      "js": []
+      "css": ["content.css"]
     }
   ],
+  "background": {
+    "service_worker": "background.js"
+  },
   "manifest_version": 3
 }

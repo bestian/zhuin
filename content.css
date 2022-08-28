@@ -1,8 +1,9 @@
-body {
+body.zhuin {
 	font-family: "Bpmf GenYo Gothic", "Bpmf GenYo Gothic R" !important;
 	font-size: 20px !important;
 }
 
-p {
+.zhuin p {
 	font-size: 44px !important;
+	line-height: 1.2 !important;
 }

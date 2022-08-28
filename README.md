@@ -9,6 +9,10 @@
 
 再安裝本擴充功能
 
+## Usage
+
+按右上角的圖示即可切換注音模式
+
 ## Bug Report
 
 * post [Issues](https://github.com/bestian/zhuin/issues)
