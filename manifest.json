@@ -2,9 +2,12 @@
   "name": "__MSG_extName__",
   "description": "__MSG_extIntro__",
   "default_locale": "en",
-  "icons": { "16": "icon16.png",
-  			"48": "icon48.png",
-  			"128": "icon128.png" },
+  "icons": { 
+        "16": "icon16x16.png",
+  			"19": "icon19x19.png",
+        "38": "icon38x38.png",
+        "48": "icon48x48.png",
+  			"128": "icon128x128.png" },
   "version": "2.0.0",
   "content_scripts": [
     {
