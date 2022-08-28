@@ -18,7 +18,7 @@
                   "*://www.bing.com/*", "*://www.yahoo.com/*", 
                   "*://www.baidu.com/*", "*://www.sina.com.cn/*"],
       "css": ["content.css"],
-      "js": ["jquery.js", "content.js"]
+      "js": []
     }
   ],
   "manifest_version": 3
