@@ -1,0 +1,25 @@
+{
+  "name": "__MSG_extName__",
+  "description": "__MSG_extIntro__",
+  "default_locale": "en",
+  "icons": { "16": "icon16.png",
+  			"48": "icon48.png",
+  			"128": "icon128.png" },
+  "version": "2.0.0",
+  "content_scripts": [
+    {
+      "matches": ["*://www.ettoday.net/*", "*://news.ltn.com.tw/*",
+                  "*://tw.news.yahoo.com/*", "*://tw.tv.yahoo.com/*", 
+                  "*://www.appledaily.com.tw/*", "https://www.upmedia.mg/*", 
+                  "*://today.line.me/*", "*://www.upmedia.mg/*",
+                  "*://www.youtube.com/*", "*://tag.todohealth.com/*", 
+                  "*://www.chinatimes.com/*", "*://www.setn.com/*", 
+                  "*://google.com.tw/*", "*://www.google.com/*", 
+                  "*://www.bing.com/*", "*://www.yahoo.com/*", 
+                  "*://www.baidu.com/*", "*://www.sina.com.cn/*"],
+      "css": ["content.css"],
+      "js": ["jquery.js", "content.js"]
+    }
+  ],
+  "manifest_version": 3
+}
