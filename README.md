@@ -11,9 +11,11 @@
 
 [下載點](https://github.com/ButTaiwan/bpmfvs/releases/download/v1.320/BpmfGenYoGothic.zip)
 
-2. 點擊："BpmfGenYoGothic-R.ttf"以安裝"源樣注音明體"
+2. 將下載的壓縮檔解壓縮後，開啟資料夾
+  
+3. 點擊："BpmfGenYoGothic-R.ttf"以安裝"源樣注音明體"
 
-3. 再安裝本擴充功能
+4. 再安裝本擴充功能
 
 ### Chrome應用商店位置：
 
